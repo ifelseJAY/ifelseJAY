@@ -1,4 +1,5 @@
-## Hi, I’m a tech enthusiast and Data Scientist with a background in IT and hands-on experience in data analysis, visualization, and machine learning basics. I’m curious, collaborative, and passionate about turning raw data into clear insights.
+##  Who am I?
+I’m a tech enthusiast and Data Scientist with a background in IT and hands-on experience in data analysis, visualization, and machine learning basics. I’m curious, collaborative, and passionate about turning raw data into clear insights.
 
 🔹 What am I currently working on?
 Building projects to sharpen my skills in Python and SQL
