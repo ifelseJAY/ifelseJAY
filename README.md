@@ -6,7 +6,7 @@ Building projects to sharpen my skills in Python and SQL
 
 Exploring machine learning models for predictive analytics
 
-Creating dashboards with Power BI and Streamlit
+Creating dashboards with Power BI and Tableau
 
 Documenting my learning journey here on GitHub
 
@@ -15,7 +15,7 @@ Languages: Python, SQL
 
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-Visualization & BI: Power BI, Streamlit
+Visualization & BI: Power BI, Tableau
 
 Version Control: Git & GitHub
 
